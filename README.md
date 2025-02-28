@@ -15,3 +15,4 @@ A Streamlit application that analyzes videos using Google's Gemini AI model, ext
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+# Video-Understanding-App-with-Gemini
